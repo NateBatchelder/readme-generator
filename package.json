@@ -1,0 +1,24 @@
+{
+  "name": "professionalreadmegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NateBatchelder/professionalReadmeGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NateBatchelder/professionalReadmeGenerator/issues"
+  },
+  "homepage": "https://github.com/NateBatchelder/professionalReadmeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
